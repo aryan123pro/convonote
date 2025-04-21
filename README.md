@@ -1,2 +1,0 @@
-# convonote
-summarizes meeting transcripts 
